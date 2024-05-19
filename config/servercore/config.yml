@@ -20,7 +20,7 @@ features:
     # Makes villagers tick less often if they are stuck in a 1x1 space.
     enabled: true
     # Decides the interval in between villager ticks when lobotomized.
-    tick-interval: 20
+    tick-interval: 30
 
 
 # Automatically modifies dynamic settings based on the server performance.
